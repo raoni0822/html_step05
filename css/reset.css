@@ -28,6 +28,12 @@ img {
     vertical-align: middle;
 }
 
+address,
+em,
+i {
+    font-style: normal;
+}
+
 body {
     line-height: 1;
     letter-spacing: -0.025em;
